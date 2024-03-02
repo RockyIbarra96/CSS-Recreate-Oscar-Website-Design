@@ -1,0 +1,25 @@
+
+@media (min-width: 425px) {
+
+body {
+    background-color: white;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+ul {
+    list-style: none;
+}
+
+.hero-container {
+    
+}
+
+
+
+}
